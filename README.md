@@ -7,9 +7,13 @@ BUILD:
 - make
 
 USAGE:
+```
 ./bimageduplicate <folder1> [<folder2>]
+```
 
 EXAMPLE:
+```
 ./bimageduplicate ~/.Image
+```
 
 ![bimagededuplication](http://www.buschinski.de/img-misc/bimagededuplication.png)

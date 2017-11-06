@@ -16,4 +16,4 @@ EXAMPLE:
 ./bimageduplicate ~/.Image
 ```
 
-![bimagededuplication](http://www.buschinski.de/img-misc/bimagededuplication.png)
+![bimagededuplication](http://www.buschinski.de/img-misc/bimagededuplication2.png)

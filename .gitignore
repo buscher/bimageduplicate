@@ -1,0 +1,4 @@
+*.stash
+bin
+Makefile
+*.kdev4

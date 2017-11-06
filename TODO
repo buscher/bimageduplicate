@@ -1,0 +1,3 @@
+- check for complete duplicate folders, rather then ask for 300times, same image
+- implement variance
+- implement --exclude folder
